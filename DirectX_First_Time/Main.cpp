@@ -39,6 +39,7 @@ struct VERTEX
 {
 	FLOAT X, Y, Z;
 	D3DXCOLOR Color;
+	FLOAT A;
 };
 
 #pragma region Main
